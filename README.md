@@ -6,6 +6,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 I'm Mateus Silva, a Software Engineer who is passionate about JavaScript technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working as a Tech lead on a Micro-Frontend project for health industry.
+- 🔭 I’m currently working as a Tech lead on a SaaS project for health industry.
 
 - 🌱 I’m currently learning Data science, micro-frontend architecture and of course JS improvments.
