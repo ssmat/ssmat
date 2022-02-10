@@ -8,4 +8,4 @@ I'm Mateus Silva, a Software Engineer who is passionate about JavaScript technol
 
 - 🔭 I’m currently working as a Tech lead on a SaaS project for health industry.
 
-- 🌱 I’m currently learning Data science, micro-frontend architecture and of course JS improvments.
+- 🌱 I’m currently learning Data science and of course JS improvments.
